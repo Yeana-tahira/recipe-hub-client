@@ -1,0 +1,4 @@
+displayName
+photoURL
+
+email: tabassumyeanatahira@gmail.com
